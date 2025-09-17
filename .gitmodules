@@ -1,0 +1,6 @@
+[submodule "chip8_core"]
+	path = chip8_core
+	url = git@github.com:gamersekofy/chip8_core.git
+[submodule "chip8_desktop"]
+	path = chip8_desktop
+	url = git@github.com:gamersekofy/chip8_desktop.git
