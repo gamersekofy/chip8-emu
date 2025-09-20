@@ -48,6 +48,12 @@
             cargo-edit
             cargo-watch
             rust-analyzer
+
+            sdl3
+            libglvnd
+            wayland
+            libxkbcommon
+            wayland-protocols
           ];
 
           env = {
